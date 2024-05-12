@@ -1,3 +1,5 @@
+[Visual Computacional em tempo real]![Design sem nome (2)](https://github.com/ValdirDeJesus/ProjetoImersaoAluraGoogleAvaliacao/assets/169537167/cb593259-cad2-45e3-8205-b297b0c50603)
+
 # ProjetoImersaoAluraGoogleAvaliacao
 Textual Description of Objects Images via Google Studio API Key
 
